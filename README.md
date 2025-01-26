@@ -1,4 +1,4 @@
-# Multi-Hysteria-Installer-
+# Multi-Hysteria-Installer Ubuntu 20 ++
 este script instalar hysteria para ubuntu AMD64 no soporta otras distribuciones 
 #### install ####
 
