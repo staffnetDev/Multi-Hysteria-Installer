@@ -6,7 +6,7 @@ este script instalar hysteria para ubuntu AMD64 no soporta otras distribuciones
 git clone https://github.com/staffnetDev/Multi-Hysteria-Installer-.git
 ```
 ```
-cd Multi-Hysteria-Installer 
+cd Multi-Hysteria-Installer-
 ```
 ```
 chmod +x install 
