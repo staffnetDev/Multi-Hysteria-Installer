@@ -7,7 +7,7 @@ Este script instala Hysteria en sistemas Ubuntu AMD64. Actualmente, no soporta o
 Antes de ejecutar el script, asegúrate de tener los siguientes paquetes instalados:
 
 ```bash
-sudo apt -y -q install gcc shc iptables-persistent
+sudo apt -y -q install curl wget openssl  iptables-persistent
 ```
 
 ## Instalación de Hysteria
@@ -22,8 +22,8 @@ cd Multi-Hysteria-Installer-
 Otorga permisos de ejecución al script de instalación y ejecútalo:
 
 ```bash
-chmod +x install_final
-./install_final
+chmod +x install.sh
+bash install_final
 ```
 
 Este script instalará y configurará Hysteria, incluyendo la persistencia de las reglas de `iptables`.
