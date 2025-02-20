@@ -15,7 +15,7 @@ sudo apt -y -q install gcc shc iptables-persistent
 Clona el repositorio y cambia al directorio del proyecto:
 
 ```bash
-git clone https://github.com/staffnetDev/Multi-Hysteria-Installer-.git
+git clone https://github.com/staffnetDev/Multi-Hysteria-Installer.git
 cd Multi-Hysteria-Installer-
 ```
 
